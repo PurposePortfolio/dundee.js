@@ -1,0 +1,28 @@
+{
+  "name": "dundee.js",
+  "version": "0.0.1",
+  "description": "A mechanism for tracking changes to objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/bootstrap.test.js test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PurposePortfolio/dundee.js.git"
+  },
+  "keywords": [
+    "track",
+    "datastore",
+    "data",
+    "monitor",
+    "observe",
+    "timestamp",
+    "change"
+  ],
+  "author": "Nathan Wells",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PurposePortfolio/dundee.js/issues"
+  },
+  "homepage": "https://github.com/PurposePortfolio/dundee.js#readme"
+}
